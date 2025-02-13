@@ -3,4 +3,4 @@
 - i like climbing
 - aaa
 
-![frog](/assets/frog.jpg)
+![](/assets/frog.jpg)
