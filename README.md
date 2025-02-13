@@ -1,8 +1,6 @@
-# YamatoCruiser.github.io
 
-- i like climbing
-- aaa
+-
 
-![](/assets/frog.jpg)
+![](/assets/images/)
 
 i am multinational, with citizenship in Denmark and Thailand 🇩🇰 🇹🇭
