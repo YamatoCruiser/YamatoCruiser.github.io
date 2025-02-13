@@ -2,3 +2,5 @@
 
 - i like climbing
 - aaa
+
+![frog](/assets/frog.jpg)
