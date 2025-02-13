@@ -5,5 +5,4 @@
 
 ![](/assets/frog.jpg)
 
-i am multinational, with citizenship in Denmark and Thailand
-:denmark: :thailand:
+i am multinational, with citizenship in Denmark and Thailand 🇩🇰 🇹🇭
